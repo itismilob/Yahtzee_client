@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{055A6BDB-1F2D-476B-9CD4-617FE1063006}|Yahtzee_Client.vcxproj|C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{055A6BDB-1F2D-476B-9CD4-617FE1063006}|Yahtzee_Client.vcxproj|solutionrelative:game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{055A6BDB-1F2D-476B-9CD4-617FE1063006}|Yahtzee_Client.vcxproj|C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{055A6BDB-1F2D-476B-9CD4-617FE1063006}|Yahtzee_Client.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{055A6BDB-1F2D-476B-9CD4-617FE1063006}|Yahtzee_Client.vcxproj|C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\data_struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{055A6BDB-1F2D-476B-9CD4-617FE1063006}|Yahtzee_Client.vcxproj|solutionrelative:data_struct.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{055A6BDB-1F2D-476B-9CD4-617FE1063006}|Yahtzee_Client.vcxproj|C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{055A6BDB-1F2D-476B-9CD4-617FE1063006}|Yahtzee_Client.vcxproj|solutionrelative:common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{055A6BDB-1F2D-476B-9CD4-617FE1063006}|Yahtzee_Client.vcxproj|C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\data_connection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{055A6BDB-1F2D-476B-9CD4-617FE1063006}|Yahtzee_Client.vcxproj|solutionrelative:data_connection.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,36 +26,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 164,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "data_struct.h",
-              "DocumentMoniker": "C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\data_struct.h",
-              "RelativeDocumentMoniker": "data_struct.h",
-              "ToolTip": "C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\data_struct.h",
-              "RelativeToolTip": "data_struct.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-05T11:09:29.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\main.c",
               "RelativeDocumentMoniker": "main.c",
               "ToolTip": "C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\main.c",
               "RelativeToolTip": "main.c",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAC8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-11-28T11:33:43.674Z",
+              "WhenOpened": "2024-12-12T09:44:11.319Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\game.h",
+              "RelativeDocumentMoniker": "game.h",
+              "ToolTip": "C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\game.h",
+              "RelativeToolTip": "game.h",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T11:59:27.194Z",
               "EditorCaption": ""
             },
             {
@@ -62,10 +63,27 @@
               "RelativeDocumentMoniker": "common.h",
               "ToolTip": "C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\common.h",
               "RelativeToolTip": "common.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-28T11:33:12.96Z",
+              "WhenOpened": "2024-12-12T15:23:11.602Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "data_connection.h",
+              "DocumentMoniker": "C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\data_connection.h",
+              "RelativeDocumentMoniker": "data_connection.h",
+              "ToolTip": "C:\\Users\\sunst\\Main\\Developer\\C\\WinSocket\\Yahtzee\\Yahtzee_Client\\data_connection.h",
+              "RelativeToolTip": "data_connection.h",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-12T13:49:54.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

@@ -21,6 +21,12 @@
     <ClInclude Include="data_struct.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="game.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="data_connection.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.c">
