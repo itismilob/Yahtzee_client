@@ -108,7 +108,6 @@ void roll() {
     }
     diceData.isStop = FALSE;
 
-    printf("send dice\n");
     sendDiceData(clientsock);
 
     remain = remain - 1;
@@ -119,6 +118,7 @@ void lock() {
     int i;
     isStop = FALSE;
     while (1) {
+        clear();
         showScoreboard();
 
         printf("\n\n주사위는...\n");
@@ -319,7 +319,6 @@ void combi() {
 
         if (!isCorrect) {
             printf("이미 점수가 차있습니다.\n");
-            continue;
         }
         while (1) {
             printf("%s 의 점수는 %d입니다. 최종 결정은 yes, 다시 돌아가려면 no\n", combiList[selected], combi_score);
@@ -333,7 +332,10 @@ void combi() {
                 isStop = TRUE;
                 return;
             }
-            if (strcmp(says, "no") != 0) {
+            else if (strcmp(says, "no") == 0) {
+                break;
+            }
+            else {
                 printf("잘못 입력했습니다.\n");
             }
         }

@@ -17,7 +17,11 @@
 
 #define SERVERPORT 8000
 #define BUFSIZE 512
+
+// 최대 유저 접속 수 2~
 #define MAX_USER 2
+
+// 최대 라운드 13
 #define MAX_ROUND 2
 
 #include "data_struct.h"
@@ -189,6 +193,7 @@ int connect_game() {
 
 	// 점수 결과를 유저 모두에게 전송 #2-3-* send Scoreboard
 	recvScoreboard(clientsock);
+	clear();
 	showScoreboard();
 	printf("게임이 종료되었습니다.\n");
 
